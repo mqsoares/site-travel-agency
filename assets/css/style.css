@@ -88,17 +88,15 @@ input {
 .hero {
     max-width: 1366px;
     margin: auto;
-    background-image: url('.active/assets/imgs/london.jpg');
+    background-image: url('./assets/imgs/london.jpg');
     background-size: cover;
     background-position: top center;
-    /* height: 634px; */
     height: 39.62rem;
     position: relative;
 }
 
 .container-hero {
     background-color: var(--color-base);
-    /* width: 890px; */
     width: 55.62rem;
     margin: auto;
     position: absolute;
