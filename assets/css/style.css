@@ -88,7 +88,7 @@ input {
 .hero {
     max-width: 1366px;
     margin: auto;
-    background-image: url('/assets/imgs/london.jpg');
+    background-image: url('.active/assets/imgs/london.jpg');
     background-size: cover;
     background-position: top center;
     /* height: 634px; */
