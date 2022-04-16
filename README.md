@@ -1,14 +1,14 @@
 <h1> Site - Agência de Viagem </h1>
 
 <a href="https://www.linkedin.com/in/mq-soares">Meu LinkedIn</a><br>
-<a href="https://mqsoares.github.io/site-travel-agency/">Projeto no ar</a>
-
 
 <h2>Descrição</h2>
 <p> Reproduzido para fins de estudo, Layout foi disponibilizado<br>
  pelo canal do YouTube DevMedia, no vídeo  "ANALISANDO O HTML E CSS DOS ESTAGIÁRIOS".</p>
 
 <p>Página simples, estática, porém totalmente responsiva.<br></p>
+
+<a href="https://mqsoares.github.io/site-travel-agency/">Projeto no ar</a>
 
 <h2>Tecnologias</h2>
 <ul>
